@@ -22,14 +22,6 @@ Flask-SQLAlchemy==2.5.1
 Flask-WTF==1.0.0
 flatbuffers==2.0
 fonttools==4.28.5
-future==0.18.2
-gast==0.4.0
-geocoder==1.38.1
-google-auth==2.3.3
-google-auth-oauthlib==0.4.6
-google-pasta==0.2.0
-greenlet==1.1.2
-grpcio==1.43.0
 gunicorn==20.1.0
 hyperframe==6.0.1
 idna==3.3
@@ -78,11 +70,6 @@ SQLAlchemy==1.4.31
 starlette==0.17.1
 threadpoolctl==3.1.0
 toml==0.10.2
-torch==1.10.1
-torchvision==0.11.2
-touch==2020.12.3
-tqdm==4.62.3
-twilio==7.5.0
 typing_extensions==4.0.1
 urllib3==1.26.8
 uvicorn==0.17.1
