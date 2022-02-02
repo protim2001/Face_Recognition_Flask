@@ -1,0 +1,27 @@
+{% extends 'base.html' %} 
+
+{%block bodyblock %}
+
+<div class="container">
+  <br /><br />
+  <h3 class="content">
+    Welcome to <span style="color: #198b90">FreeAI.s p a c e</span>
+  </h3>
+  <br />
+  <h1>ABOUT THE CREATOR OF THIS WEB APP</h1>
+  <div>
+    <p>
+      <div class="newcont"><img  src="{{ url_for('static', filename='images/ProtimAich.jpeg') }}" alt=""   width="200"   height="200" align="right" /></div>
+      <br clear="left"/>
+      <div class="newcont">Quality-driven and goal focused with strong research, planning and
+      problem-solving abilities. Enthusiastic and eager to contribute to team
+      success through hard work, attention to detail and moderate organizational
+      skills. I am proficient in many programming languages like C, C++, Java ,
+      Python, HTML, CSS, JavaScript and many more. Also, I have a firm grip over
+      Data Structures and Algorithms and also I have worked with OpenCV,
+      Numpy,Matplotlib and Pandas in my project.</div>
+    </p>
+  </div>
+</div>
+
+{% endblock %}
