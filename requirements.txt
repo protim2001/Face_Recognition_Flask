@@ -4,7 +4,7 @@ asgiref==3.5.0
 astunparse==1.6.3
 cachetools==4.2.4
 certifi==2021.10.8
-charset-normalizer==2.0.10
+charset-normalizer==2.0.9
 click==8.0.3
 cmake==3.22.1
 colorama==0.4.4
